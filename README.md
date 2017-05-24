@@ -1,0 +1,1 @@
+# currency-decimal-mark
